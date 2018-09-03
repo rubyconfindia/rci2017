@@ -13,4 +13,4 @@ encoding: UTF-8
 
 # Build settings
 markdown: kramdown
-github_project_name: 'http://rubyconfindia.org/2017'
+github_project_name: 'https://2017.rubyconfindia.org/'
